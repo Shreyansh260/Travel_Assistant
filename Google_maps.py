@@ -2,7 +2,7 @@ import googlemaps
 from datetime import datetime
 import re
 
-API_KEY = 'AIzaSyAjr22BdTMY0YnaWf0FE9IvDgU7sRbXX4U'  # Replace with your actual key
+API_KEY = 'your_google_maps_api_key_here'  # Replace with your actual key
 gmaps = googlemaps.Client(key=API_KEY)
 
 def remove_html_tags(text):
