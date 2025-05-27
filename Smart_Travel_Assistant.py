@@ -18,7 +18,7 @@ try:
     import googlemaps
     GOOGLEMAPS_AVAILABLE = True
     # Your Google Maps API Key - REPLACE WITH YOUR ACTUAL KEY
-    GOOGLE_MAPS_API_KEY = "AIzaSyAjr22BdTMY0YnaWf0FE9IvDgU7sRbXX4U"
+    GOOGLE_MAPS_API_KEY = "your_google_maps_api_key_here"
 except ImportError:
     GOOGLEMAPS_AVAILABLE = False
     GOOGLE_MAPS_API_KEY = None
@@ -28,7 +28,7 @@ try:
     import google.generativeai as genai
     GENAI_AVAILABLE = True
     # Your Gemini API Key - REPLACE WITH YOUR ACTUAL KEY
-    GEMINI_API_KEY = "AIzaSyBydO1j5gFvt_rxBsEqObAfQ5BlvENtW0o"
+    GEMINI_API_KEY = "your_gemini_api_key_here"
 except ImportError:
     GENAI_AVAILABLE = False
     GEMINI_API_KEY = None
