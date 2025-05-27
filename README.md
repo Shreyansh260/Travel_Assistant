@@ -17,12 +17,6 @@ An intelligent desktop travel assistant built using **PyQt5**, **Google Maps API
 
 ---
 
-## 📸 Screenshots
-
-> _Coming soon: Include screenshots here showing login page, chatbot, and map with directions._
-
----
-
 ## 🧰 Tech Stack
 
 | Layer | Technology |
@@ -130,3 +124,21 @@ GOOGLE_AI_API_KEY=your_gemini_api_key_here
 - **[Google OAuth 2.0](https://developers.google.com/identity/protocols/oauth2)**
 
 - **[PyQt5](https://pypi.org/project/PyQt5/)**
+
+---
+
+## 📸 Screenshots
+
+> Include screenshots here showing login page, chatbot, and map with directions.
+### 1. Login Interface 🔐![Login](Screenshots/Screenshot%20(528).png)
+
+### 2. Authentication 👤![Auth](Screenshots/Screenshot%20(534).png)
+
+### 3. App Interfarence 🖥️![App](Screenshots/Screenshot%20(533).png)
+
+### 4. Map 🗺️![work](Screenshots/Screenshot%20(530).png)
+
+### 4. AI Interfarence 🤖![AI](Screenshots/Screenshot%20(531).png)
+
+### 4. History 📊 ![History](Screenshots/Screenshot%20(532).png)
+
