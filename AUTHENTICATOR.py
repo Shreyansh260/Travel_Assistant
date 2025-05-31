@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Shriyansh Singh Rathore
+# Licensed under the MIT License
+
 import os
 import json
 from google.oauth2.credentials import Credentials
