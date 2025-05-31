@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Shriyansh Singh Rathore
+# Licensed under the MIT License
+
 import googlemaps
 from datetime import datetime
 import re
